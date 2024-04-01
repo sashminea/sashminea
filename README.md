@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url.com" alt="Banner Image">
+  <img src="[https://your-image-url.com](https://media.licdn.com/dms/image/D5616AQHDdXw8Vszf3w/profile-displaybackgroundimage-shrink_350_1400/0/1711953061229?e=1717632000&v=beta&t=iASqW-QiYsrinu0OJI9srovJDCSIwAkiTqWUU8LydIE)" alt="Banner Image">
 </p>
 
 <!-- Introduction -->
