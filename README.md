@@ -30,14 +30,14 @@
 <!-- Contact -->
 <h2 align="left">Contact Me</h2>
 <p align="left">
-  📫 [Your Email](mailto:your.email@example.com) <br>
-  🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+  📫 [Your Email](mailto:sashminadhikari@gmail.com) <br>
+  🔗 [LinkedIn](https://www.linkedin.com/in/sashminadhikari)
 </p>
 
 <!-- Portfolio -->
 <h2 align="left">Portfolio</h2>
 <p align="left">
-  🌟 Check out my projects on [GitHub](https://github.com/yourusername)
+  🌟 Check out my projects on [GitHub](https://github.com/sashminea)
 </p>
 
 <!-- Footer -->
