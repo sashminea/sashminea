@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">👋 Hi, I'm Your Name</h1>
+<h1 align="center">👋 Hi, I'm Sashmin Adhikari</h1>
 <p align="center">
   💻 Frontend Web Developer | 🎨 Graphic Designer | 🧠 UI/UX Enthusiast <br>
   🚀 Passionate about creating engaging web experiences and stunning visuals.
