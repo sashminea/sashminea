@@ -1,3 +1,5 @@
+<img src= "https://i.imgur.com/bc6JEpm.jpg" align="center" width="100%">
+
 <h1 align="center">💻 Tech Stack</h1>
 
 ###
