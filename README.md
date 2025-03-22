@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I am an engineering student at Pulchowk Campus with a passion for content automation and AI. My work revolves around leveraging advanced technologies to streamline processes and create innovative solutions, while also building communities for Nepalese students to ensure they have access to better opportunities.</p>
+<p align="left">I am an engineering student at Pulchowk Campus with a passion for content automation and AI. My work revolves around leveraging advanced technologies to streamline processes and create innovative solutions.</p>
 
 ###
 
