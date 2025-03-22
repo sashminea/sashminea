@@ -1,4 +1,29 @@
-<h2 align="left">Hi👋! <br>My name is Sashmin and I'm a Software Developer 💻💫</h2>
+<h2 align="left">Hi👋!  My name is Sashmin and I'm a Software Developer 💻</h2>
+
+###
+
+<div align="left">
+  <a href="https://discord.gg/cQ5gxusATk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sashminadhikari/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/sashminea/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@sashminadhikari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE3OWZ3YzYzajU0NHUwbnVlbjR4emRrbTNqdzA1bGE5d2NnOHptaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OmK8lulOMQ9XO/giphy.gif"  />
+
+###
+
+<p align="left">I am an engineering student at Pulchowk Campus with a passion for content automation and AI. My work revolves around leveraging advanced technologies to streamline processes and create innovative solutions, while also building communities for Nepalese students to ensure they have access to better opportunities.</p>
 
 ###
 
@@ -57,22 +82,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.gg/cQ5gxusATk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sashminadhikari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/sashminea/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@sashminadhikari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashminea&radius=16&theme=elegant&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE3OWZ3YzYzajU0NHUwbnVlbjR4emRrbTNqdzA1bGE5d2NnOHptaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OmK8lulOMQ9XO/giphy.gif"  />
 
 ###
