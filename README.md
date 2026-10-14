@@ -77,8 +77,4 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashminea&radius=16&theme=elegant&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
-</div>
 
-###
